@@ -13,7 +13,7 @@ namespace Portefolio_website
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static void Main(string[] args) //TODO: add english / dutch functionality
         {
             CreateHostBuilder(args).Build().Run();
         }
